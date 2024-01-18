@@ -49,9 +49,9 @@ Once deployed the application can be viewed in a traditional desktop web browser
 ![screenshot](./assets/images/10-server-side-apis-challenge-demo.png)
 ![money screenshot](./assets/images/screenshot.jpg)
 
-https://github.com/p11ull/catsanddogsLinks to an external site.
+https://github.com/p11ull/catsanddogs Links to an external site.
 
-https://p11ull.github.io/catsanddogs/Links to an external site.
+https://p11ull.github.io/catsanddogs/ Links to an external site.
 ## Credits
 
 Collaborators on this project included instructional staff.
