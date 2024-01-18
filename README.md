@@ -47,7 +47,7 @@ The deployed website linked above was deployed using GitHub Pages.
 Once deployed the application can be viewed in a traditional desktop web browser. It is not yet optimized for other devices.
 
 ![screenshot](./assets/images/10-server-side-apis-challenge-demo.png)
-![moneyheist](./assets/images/screenshot.jpg)
+![moneyheist](./assets/images/Screenshot-2024.png)
 
 https://github.com/p11ull/catsanddogs Links to an external site.
 
