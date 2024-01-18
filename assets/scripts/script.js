@@ -19,7 +19,7 @@ var counterValue;
 
 //accessing API
 
-const APIKey = "c27b6f158393dd9e97b1661d03e463b8";
+const APIKey = "356075cb789e30f75db451fe464170ff";
 
 
 // accessing and displaying current day info.
